@@ -1,0 +1,50 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #FCE6E8;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.price{
+    color: #D91E5F;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100% );
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+/* Products*/
+.cat1 , .cat2 , .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(to right,#F0A42B,#F3C31B);
+    padding: ;
+}
+.cat2{
+    background-image: linear-gradient(to right,#ED4086,#EB4488);
+}
+.cat3{
+    background-image: linear-gradient(to right,#406EFF,#3713F7);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
